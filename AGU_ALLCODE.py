@@ -3,7 +3,6 @@
 import time
 import numpy as num
 import tushare as ts
-from bypy import ByPy
 
 dict = {}
 def strategy(zhouqi, n):
